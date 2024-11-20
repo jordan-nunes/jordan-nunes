@@ -2,10 +2,10 @@
 
 I'm **Jordan Nunes**, a passionate technology enthusiast driven to develop innovative solutions for real-world challenges!
 
-🔭 **Currently working on**: Exciting projects in **Computer Vision** and **Data Analysis**.
-🌱 **Actively learning**: **Python** programming and exploring tools in AI and machine learning.
-💡 **Interests**: Automation, AI-powered solutions, and making data work smarter.
-🎯 **Goals**: To contribute to impactful open-source projects and build scalable, user-friendly applications.
+- 🔭 **Currently working on**: Exciting projects in **Computer Vision** and **Data Analysis**.
+- 🌱 **Actively learning**: **Python** programming and exploring tools in AI and machine learning.
+- 💡 **Interests**: Automation, AI-powered solutions, and making data work smarter.
+- 🎯 **Goals**: To contribute to impactful open-source projects and build scalable, user-friendly applications.
 
 <!--
 **jordan-nunes/jordan-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
