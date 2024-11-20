@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Jordan Nunes, a technology enthusiast that wants to wants to develop innovative solutions!
+
 - 🔭 I’m currently working on Computer Vision and Data Analysis projects
 - 🌱 I’m currently learning Python
 
