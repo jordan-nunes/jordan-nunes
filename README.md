@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Computer Vision and Data Analysis projects
+- 🌱 I’m currently learning Python
+
 <!--
 **jordan-nunes/jordan-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
